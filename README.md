@@ -1,4 +1,4 @@
-## Starter Project
+## Project from Udemy course by John Smilga 
 
 - css provided (global styles, styled components)
 - folders/files already setup
